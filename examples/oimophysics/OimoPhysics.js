@@ -14124,15 +14124,15 @@ oimo.common.Mat4 = class oimo_common_Mat4 {
 		this.e00 *= sx;
 		this.e01 *= sy;
 		this.e02 *= sz;
-		this.e03 = this.e03;
+
 		this.e10 *= sx;
 		this.e11 *= sy;
 		this.e12 *= sz;
-		this.e13 = this.e13;
+
 		this.e20 *= sx;
 		this.e21 *= sy;
 		this.e22 *= sz;
-		this.e23 = this.e23;
+
 		this.e30 *= sx;
 		this.e31 *= sy;
 		this.e32 *= sz;
